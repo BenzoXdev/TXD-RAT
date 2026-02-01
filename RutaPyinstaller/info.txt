@@ -1,0 +1,5 @@
+TXD - by benzoXdev
+--------------------
+This script verifies where PyInstaller is located.
+Note: CompilerPYtoEXE.py now detects PyInstaller automatically from PATH.
+If compilation fails, run this script to verify your installation.
